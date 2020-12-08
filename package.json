@@ -2,9 +2,9 @@
 	"name": "stockTickerApp",
 	"version": "1.0.0",
 	"description": "node app ",
-	"main": "stockTickerSearch.js",
+	"main": "stockTickerForm.html",
 	"scripts": 
-		{"start": "stockTickerSearch.js"},
+		{"start": "stockTickerForm.html"},
 	"repository": 
 		{"type": "git","url": ""},
 	"author": "",
